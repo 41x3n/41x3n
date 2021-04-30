@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MultiProcessing with Node.js](https://github.com/41x3n/Trying-out-MultiProcessing-with-Node.js)
 
-- 🌱 I’m currently learning **Micro-service, Docker and Golang**
+- 🌱 I’m currently learning **Microservice Architecture, Docker and Golang**
 
 - 👯 I’m looking to collaborate on [Price Samjho](https://github.com/41x3n/Price-Samjho)
 
