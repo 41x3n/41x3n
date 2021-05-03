@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on [Price Samjho](https://github.com/41x3n/Price-Samjho)
 
+- 🤝 I’m looking for help with [ExpCowin](https://github.com/41x3n/ExpCowin)
+
 - 👨‍💻 All of my projects are available at [my portfolio](https://41x3n.netlify.app/projects/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@41x3n)
