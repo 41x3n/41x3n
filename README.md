@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anindya Chowdhury</h1>
-<h3 align="center">A lazy backend developer from India who is desperately looking for an internship.</h3>
+<h3 align="center">A backend developer from India who is desperately looking for an internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=41x3n&label=Profile%20views&color=0e75b6&style=flat" alt="41x3n" /> </p>
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [in my CV](https://1drv.ms/b/s!AgZEnMVPI5t_xeh_PC4_kUzQk1Lmjw?e=pjJIcZ)
 
-- ⚡ Fun fact **I am a good team player but nobody asks me to join. :(**
+- ⚡ Fun fact **[1, 2, 3, 4] + [5, 6, 7, 8] yields "1,2,3,45,6,7,8" in JavaScript**
 
 
 <h3 align="left">Languages and Tools:</h3>
