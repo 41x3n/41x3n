@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anindya Chowdhury</h1>
-<h3 align="center">A backend developer from India who is desperately looking for an internship.</h3>
+<h3 align="center">An aspiring backend developer desperately looking for an internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=41x3n&label=Profile%20views&color=0e75b6&style=flat" alt="41x3n" /> </p>
 
@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [Price Samjho](https://github.com/41x3n/Price-Samjho)
 
-- 🤝 I’m looking for help with [ExpCowin](https://github.com/41x3n/ExpCowin)
+- 🤝 I’m looking for a mentor to help me with decentralized technology.
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://41x3n.netlify.app/projects/)
+<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://41x3n.netlify.app/projects/) -->
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@41x3n)
 
-- 💬 Ask me about **Node.js and Dota 2**
+- 💬 Ask me about **Anime and Dota 2**
 
 - 📫 How to reach me **anindya.chowdhury@protonmail.com**
 
