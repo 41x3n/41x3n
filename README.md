@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- 💤 On weekends, I work on my pet project - **SubTrck**  
+- 💤 On weekends, I work on my pet project - **Nerdly**  
   
 
 <br/>  
