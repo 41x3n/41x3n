@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Anindya Chowdhury</div>  
   
 
-### <div align="center">I'm a software engineer from India working remotely!  🚀</div>  
+### <div align="center">An engineer from India working remotely!  🚀</div>  
 
 <br/>  
 
@@ -13,19 +13,16 @@
 <br/>  
   
 
-- 🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/)  
+- 🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/) and bottom fragging in **Valorant**
   
 
-- 🌱 I’m also learning Azure and Cryptography  
+- 🌱 I’m also learning Cryptography and GO (Both the language & the game)  
   
 
-- ❓ Ask me about anything related to Indic Mythology  
+- ❓ Ask me about anything random 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-- 💤 On weekends, I work on my pet project - **Nerdly**  
+- 💤 On weekends, I work on my pet project - **Oni-Commit**  
   
 
 <br/>  
