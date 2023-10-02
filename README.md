@@ -13,7 +13,7 @@
 <br/>  
   
 
-- 🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/) while building AI-Companion for **Hicky**
+- 🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/) while creating AI-Companion for **Hicky**
   
 
 - 🌱 I’m also learning Cryptography and GO (Both the language & the game)  
@@ -22,7 +22,8 @@
 - ❓ Ask me about anything random 
   
 
-- 💤 On weekends, I try to build small projects using Golang - [Oni-Commit](https://github.com/41x3n/oni-commit), [Emoji-Splitter](https://github.com/41x3n/emoji-splitter). What should I build next?
+- 💤 On weekends, I try to build small projects using Golang - [Oni-Commit](https://github.com/41x3n/oni-commit), [Emoji-Splitter](https://github.com/41x3n/emoji-splitter).
+- 🥷🏼 Currently, building **Trazy** - Pixel tracker for your Github!
   
 
 <br/>  
@@ -97,7 +98,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=41x3n&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=41x3n&theme=gotham&show_icons=true" align="center" /></div>  
 
 <br/>  
 
