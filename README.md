@@ -13,17 +13,11 @@
 <br/>  
   
 
-- 🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/) while creating AI-Companion for **Hicky**
-  
+🍉 I’m currently making meetings better at [Dive](https://www.letsdive.io/) while creating AI-Companion for **Hicky**
 
-- 🌱 I’m also learning Cryptography and GO (Both the language & the game)  
-  
+🌌 Code Conjurer: Crafting solutions with a touch of magic, I bring random jokes and facts—from Anime to War—to every adventure. 
 
-- ❓ Ask me about anything random 
-  
-
-- 💤 On weekends, I try to build small projects using Golang - [Oni-Commit](https://github.com/41x3n/oni-commit), [Emoji-Splitter](https://github.com/41x3n/emoji-splitter).
-- 🥷🏼 Currently, building **Trazy** - Pixel tracker for your Github!
+🎮 Digital Voyager: When not in the code realm, catch me playing games or roaming the country. Adventure awaits both in the virtual and real world! 🌍 🚀
   
 
 <br/>  
