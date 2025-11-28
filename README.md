@@ -11,9 +11,11 @@
 
 
 
-Based out of **Kolkata 🇮🇳**, I build backend systems and tinker with side projects that spark my curiosity.  
+Based in **Kolkata 🇮🇳**. I build backend systems for a living and spend weekends tinkering with side projects. 
 
-Outside work, I’m usually watching anime, catching up on manhwas, playing (and losing) **Valorant 🎮**.
+When I’m not coding, I’m usually watching anime, reading manhwas, losing Valorant matches 🎮, or wandering through history and politics rabbit holes.
+
+
 
 
 <br>
