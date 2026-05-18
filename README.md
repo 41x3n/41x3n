@@ -1,27 +1,38 @@
-<div align="center">
+# hey, I'm Anindya
 
-# Hi 👋, I'm Anindya Chowdhury  
-**Backend Engineer** | *Scaling Systems & Touching Grass (Sometimes)*  
+backend engineer based in Kolkata. I build systems that move data at scale —
+pipelines, integrations, the infrastructure that runs quietly until it doesn't.
 
+by day I'm a senior engineer at VideoVerse. outside that, I'm building things
+out of curiosity and documenting experiments that go beyond software.
 
+---
 
+### what I work with
 
-<br>
+```
+TypeScript · Go · Python
+PostgreSQL · MongoDB · Redis
+AWS · GCP · Docker · Cloudflare
+```
 
+---
 
+### things I've built
 
+| project | what it is |
+|---|---|
+| [Roast My Plate](https://roastmyplate.com) | AI grandma judges your food. built to learn the Cloudflare stack. |
+| [samvad-news-harvester](https://github.com/41x3n/samvad-news-harvester) | Go service that fetches Indian news and publishes to SQS/SNS/Pub·Sub |
+| [Indiclang-Fraud-Shield](https://github.com/41x3n/Indiclang-Fraud-Shield) | multilingual scam detection bot for Indic languages |
 
-Based in **Kolkata 🇮🇳**. I build backend systems for a living and spend weekends tinkering with side projects. 
+---
 
-When I’m not coding, I’m usually watching anime, reading manhwas, losing Valorant matches 🎮, or wandering through history and politics rabbit holes.
+### currently
 
+- building something outside software — early, uncertain, figuring it out
+- documenting the process at [@via.mrk](https://instagram.com/via.mrk)
 
+---
 
-
-<br>
-
-</div>
-
-
-![](https://hit.yhype.me/github/profile?user_id=19756597)
-
+[portfolio](https://anindyac.me)
