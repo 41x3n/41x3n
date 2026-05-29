@@ -23,7 +23,7 @@ AWS · GCP · Docker · Cloudflare
 | project | what it is |
 |---|---|
 | [Roast My Plate](https://roastmyplate.com) | AI grandma judges your food. built to learn the Cloudflare stack. |
-| [samvad-news-harvester](https://github.com/41x3n/samvad-news-harvester) | Go service that fetches Indian news and publishes to SQS/SNS/Pub·Sub |
+| [samvad-news-harvester](https://github.com/samvad-hq/samvad-news-harvester) | Go service that fetches Indian news and publishes to SQS/SNS/Pub·Sub |
 | [Indiclang-Fraud-Shield](https://github.com/41x3n/Indiclang-Fraud-Shield) | multilingual scam detection bot for Indic languages |
 
 ---
