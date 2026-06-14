@@ -3,8 +3,10 @@
 backend engineer based in Kolkata. I build systems that move data at scale —
 pipelines, integrations, the infrastructure that runs quietly until it doesn't.
 
-by day I'm a senior engineer at VideoVerse. outside that, I'm building things
-out of curiosity and documenting experiments that go beyond software.
+by day I'm a senior engineer at Videoverse, where I own the partner integration
+layer for Magnifi — the APIs, metadata, and event pipelines that connect us to
+broadcasters across Europe and the US. outside work I build my own products and
+do the whole thing myself, down to payments and servers.
 
 ---
 
@@ -20,19 +22,20 @@ AWS · GCP · Docker · Cloudflare
 
 ### things I've built
 
-| project | what it is |
-|---|---|
-| [Roast My Plate](https://roastmyplate.com) | AI grandma judges your food. built to learn the Cloudflare stack. |
-| [samvad-news-harvester](https://github.com/samvad-hq/samvad-news-harvester) | Go service that fetches Indian news and publishes to SQS/SNS/Pub·Sub |
-| [Indiclang-Fraud-Shield](https://github.com/41x3n/Indiclang-Fraud-Shield) | multilingual scam detection bot for Indic languages |
+| project                                                                     | what it is                                                                                   |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Samvad](https://ask.samvadhq.com)                                          | multi-agent news intelligence for Indian journalists & researchers. live.                    |
+| [samvad-news-harvester](https://github.com/samvad-hq/samvad-news-harvester) | the public ingestion layer behind Samvad — a Go service that fans news events to SQS/SNS/Pub·Sub |
+| [Roast My Plate](https://roast-my-plate.pages.dev/)                         | three agents argue over a photo of your food. built to learn the Cloudflare stack.           |
+| [Indiclang-Fraud-Shield](https://github.com/41x3n/Indiclang-Fraud-Shield)   | multilingual scam detection bot for Indic languages                                          |
 
 ---
 
 ### currently
 
-- building something outside software — early, uncertain, figuring it out
-- documenting the process at [@via.mrk](https://instagram.com/via.mrk)
+- building [Samvad](https://ask.samvadhq.com) — a Guard → Retriever → Analyst → Critic pipeline that answers questions about Indian news coverage and traces every claim to its source
+- starting something off-screen too — mushroom farming and a small food business, both early. documenting at [@via.mrk](https://instagram.com/via.mrk)
 
 ---
 
-[portfolio](https://anindyac.me)
+[portfolio](https://anindyac.me) · [X](https://x.com/_41x3n)
