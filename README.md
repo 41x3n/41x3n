@@ -5,8 +5,8 @@ pipelines, and the integration layer nobody notices until it breaks.
 
 for two and a half years I owned the partner integration layer for Magnifi at
 Videoverse: the APIs and event pipelines that connected us to some of the
-biggest broadcasters in Europe and the US. I've written three of those systems
-up properly, constraints and rejected approaches included.
+biggest broadcasters in Europe and the US. I've written three of them up at
+[anindyac.me/work](https://anindyac.me/work).
 
 after that I spent a few months on Samvad, a news-intelligence product I built
 alone and took to live and paid. I shut it down once it was clear the market
