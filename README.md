@@ -51,6 +51,7 @@ open to freelance projects, remote across EU and US hours.
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Triloch                                                                     | building now. local-first search over my own CCTV footage. [the build log](https://anindyac.me/blog/local-first-cctv-search/) |
 | [useQR](https://useqr.xyz/)                                                 | fifteen free QR generators for small businesses (UPI, WhatsApp, Wi-Fi, menus). runs fully in the browser |
+| [oni-skills](https://github.com/41x3n/oni-skills)                           | the skill pack I run Claude Code and Codex with. delegate bulk reading, one plan file per feature, rules backed by counts |
 | [samvad-news-harvester](https://github.com/samvad-hq/samvad-news-harvester) | the Go pipeline that fed Samvad. YAML-configured sources, BoltDB dedupe, out to SQS/SNS/Pub·Sub          |
 | [Samvad](https://ask.samvadhq.com/sample)                                   | news search across 369K articles from 24 Indian outlets. ran live and paid, now archived                 |
 | [Indiclang-Fraud-Shield](https://github.com/41x3n/Indiclang-Fraud-Shield)   | a Telegram and WhatsApp bot that checks if a message is a scam, Indic languages included                 |
