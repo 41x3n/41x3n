@@ -53,7 +53,9 @@ Taking on freelance work, remote across EU and US hours.
 
 #### Toolbox
 
-`Go` `TypeScript` `Python` · `NestJS` `FastAPI` `LangGraph` · `PostgreSQL` `MongoDB` `Redis` · `AWS` `GCP` · `FFmpeg` `HLS`
+<a href="#"><img src="https://skillicons.dev/icons?i=go,ts,py,nestjs,fastapi,postgres,mongodb,redis,aws,gcp,docker&perline=11" height="40" alt="Go, TypeScript, Python, NestJS, FastAPI, PostgreSQL, MongoDB, Redis, AWS, GCP, Docker"></a>
+
+<sub>plus LangGraph, FFmpeg and HLS for the AI and video work</sub>
 
 <br>
 
